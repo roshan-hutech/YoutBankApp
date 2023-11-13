@@ -188,6 +188,7 @@ const Homepage = () => {
             </div>
           </section>
           <section className={styles.transactionwrap}>
+            <img className={styles.arrowbg} src={ImageAssets?.arrowbg?.default} alt="" />
             <h4>Your Transactions</h4>
             <div style={{ position: "relative", zIndex: "4", height: "10rem" }}>
               <div

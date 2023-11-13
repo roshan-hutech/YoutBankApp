@@ -26,6 +26,8 @@ const ImageAssets = {
   grid6:require('./grid6.svg'),
   grid7:require('./grid7.svg'),
   grid8:require('./grid8.svg'),
+  arrowbg:require('./arrowbg.svg'),
+
   
   
 
